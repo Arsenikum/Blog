@@ -1,0 +1,25 @@
+c:\users\денис\documents\visual studio 2015\Projects\app\app\bin\Debug\app.exe.config
+c:\users\денис\documents\visual studio 2015\Projects\app\app\bin\Debug\app.exe
+c:\users\денис\documents\visual studio 2015\Projects\app\app\bin\Debug\app.pdb
+c:\users\денис\documents\visual studio 2015\Projects\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+c:\users\денис\documents\visual studio 2015\Projects\app\app\obj\Debug\app.Form1.resources
+c:\users\денис\documents\visual studio 2015\Projects\app\app\obj\Debug\app.Properties.Resources.resources
+c:\users\денис\documents\visual studio 2015\Projects\app\app\obj\Debug\app.csproj.GenerateResource.Cache
+c:\users\денис\documents\visual studio 2015\Projects\app\app\obj\Debug\app.exe
+c:\users\денис\documents\visual studio 2015\Projects\app\app\obj\Debug\app.pdb
+C:\Users\Artem\Desktop\app\app\bin\Debug\app.exe.config
+C:\Users\Artem\Desktop\app\app\obj\Debug\app.exe
+C:\Users\Artem\Desktop\app\app\obj\Debug\app.pdb
+C:\Users\Artem\Desktop\app\app\bin\Debug\app.exe
+C:\Users\Artem\Desktop\app\app\bin\Debug\app.pdb
+C:\Users\Artem\Desktop\app\app\bin\Debug\mscorlib.dll
+C:\Users\Artem\Desktop\app\app\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Artem\Desktop\app\app\bin\Debug\normidna.nlp
+C:\Users\Artem\Desktop\app\app\bin\Debug\normnfc.nlp
+C:\Users\Artem\Desktop\app\app\bin\Debug\normnfd.nlp
+C:\Users\Artem\Desktop\app\app\bin\Debug\normnfkc.nlp
+C:\Users\Artem\Desktop\app\app\bin\Debug\normnfkd.nlp
+C:\Users\Artem\Desktop\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\app\app\obj\Debug\app.Form1.resources
+C:\Users\Artem\Desktop\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\Artem\Desktop\app\app\obj\Debug\app.csproj.GenerateResource.Cache
